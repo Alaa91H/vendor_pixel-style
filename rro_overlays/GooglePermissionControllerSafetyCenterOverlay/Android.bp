@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "GooglePermissionControllerSafetyCenterOverlay",
+    name: "GooglePermissionControllerSafetyCenterOverlayGMS",
     product_specific: true,
 }
